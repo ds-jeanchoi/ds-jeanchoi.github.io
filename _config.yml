@@ -1,15 +1,14 @@
 title: "Data Science-asy"
 author: "Jean Choi"
-description: "I am a PhD student in Data Science.
-I am broadly interested in topics in graph representation learning and meta learning." 
+description: "A blog to review decent ML/DL topics including graph representation learning and meta learning." 
 # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "jean.choi.ds@mail.com"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
-#facebook_username: username
+github_username: "ds-jeanchoi"
+linkedin_username: "https://www.linkedin.com/in/jean-choi-85685322"
+googlescholar_username: username
 #flickr_username: username
 #instagram_username: username
 #pinterest_username: username
