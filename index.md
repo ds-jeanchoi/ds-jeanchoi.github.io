@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I am a PhD student studying Deep Learning at the Seoul National University. I am broadly interested in ML/DL topics including graph representation learning and meta learning.
